@@ -68,7 +68,7 @@ pipreqs==0.4.13
 platformdirs==4.3.6
 prompt_toolkit==3.0.48
 psutil==6.1.1
-psycopg2-binary==2.9.10
+psycopg2==2.9.10
 pure_eval==0.2.3
 pycparser==2.22
 Pygments==2.19.1
@@ -83,6 +83,7 @@ python-dateutil==2.9.0.post0
 pyttsx3==2.98
 pytz==2024.2
 pytz-deprecation-shim==0.1.0.post0
+pywin32==308
 PyYAML==6.0.2
 pyzmq==26.2.0
 qrcode==8.0
